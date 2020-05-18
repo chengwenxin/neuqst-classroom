@@ -1,6 +1,6 @@
 # neuqst-classroom
 
-东北大学秦皇岛分校数学与统计学院教室管理系统
+教室管理系统
 
 ## QuickStart
 
